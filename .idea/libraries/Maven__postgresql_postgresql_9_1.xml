@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: postgresql:postgresql:9.1">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/postgresql/postgresql/9.1-901-1.jdbc4" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/postgresql/postgresql/7.4.1/postgresql-7.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/postgresql/postgresql/7.4.1/postgresql-7.4.1-sources.jar!/" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://$MAVEN_REPOSITORY$/postgresql/postgresql/9.1-901-1.jdbc4/postgresql-9.1-901-1.jdbc4.jar!/" />
+    </excluded>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/postgresql/postgresql/9.1-901-1.jdbc4" recursive="false" />
+  </library>
+</component>
